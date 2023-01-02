@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "peppy": "main.js"
+    "Global": "main.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,5 @@
     "url": "https://github.com/ajju-1209/File-Orgranization-System/issues"
   },
   "homepage": "https://github.com/ajju-1209/File-Orgranization-System#readme",
-  "description": ""
+  "description": "1.Organize your directory by separating the files of different extensions into separate folders.\r 2.Print the entire tree view of your current working directory .\r 3.Help option tells you how to enter commands and provide path for further processing."
 }
