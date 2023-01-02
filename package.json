@@ -1,7 +1,6 @@
 {
   "name": "file-system-organizer",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin":{
-   "peppy":"main.js"
-  }
+  "bin": {
+    "peppy": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajju-1209/File-Orgranization-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajju-1209/File-Orgranization-System/issues"
+  },
+  "homepage": "https://github.com/ajju-1209/File-Orgranization-System#readme",
+  "description": ""
 }
