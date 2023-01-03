@@ -15,7 +15,7 @@ To run this project run
   npm link
 ```
 
-Then run any of following options
+Then run any of following options in your terminal or command prompt
 
 1.For help options type 
 ```bash
